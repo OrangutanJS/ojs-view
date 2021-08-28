@@ -46,7 +46,7 @@ this.store = oStore({
 ``` 
 but in this case we can pass only this to oStore function. You can read more about it [here]((https://www.npmjs.com/package/ojs-store))
 - init
-##### this is method just return the HTMLElement. All you have to do is appendChild to the desired location. 
+##### this method just return the HTMLElement. All you have to do is appendChild to the desired location. 
 
 ##### Example use: 
 class without oView:
