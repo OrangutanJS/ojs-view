@@ -1,6 +1,6 @@
 {
   "name": "ojs-view",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Interface-like class with a lot of implemented ready methods from which we can inherit",
   "main": "dist/oView.js",
   "scripts": {
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/OrangutanJS/ojs-view#readme",
   "devDependencies": {
-    "ojs-core": "^1.2.2"
+    "ojs-core": "^1.2.3"
   }
 }
