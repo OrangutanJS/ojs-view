@@ -1,0 +1,32 @@
+{
+  "name": "ojs-view",
+  "version": "1.1.1",
+  "description": "Interface-like class with a lot of implemented ready methods from which we can inherit",
+  "main": "dist/oView.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangutanJS/ojs-view.git"
+  },
+  "keywords": [
+    "ojs",
+    "orangutanjs",
+    "ojs-view",
+    "oview"
+  ],
+  "author": "mswiechowicz (OrangutanJS Team)",
+  "license": "MIT",
+  "files": [
+    "dist/oView.js",
+    "dist/oView.js.map"
+  ],
+  "bugs": {
+    "url": "https://github.com/OrangutanJS/ojs-view/issues"
+  },
+  "homepage": "https://github.com/OrangutanJS/ojs-view#readme",
+  "devDependencies": {
+    "ojs-core": "^1.2.2"
+  }
+}
